@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{A2CD76B2-9
 		..\html\计算机网络知识点.html = ..\html\计算机网络知识点.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{CAD285D6-D0F4-40D9-864D-73D367A5D123}"
+	ProjectSection(SolutionItems) = preProject
+		code\计算机网络复习题.md = code\计算机网络复习题.md
+		code\计算机网络知识点.md = code\计算机网络知识点.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
